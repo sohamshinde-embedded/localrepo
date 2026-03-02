@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("HELLO LINUX");
+    printf("HELLO KAKI LINUX");
     return 0;
 
 }
